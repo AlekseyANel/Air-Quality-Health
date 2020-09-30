@@ -1,0 +1,65 @@
+.footer {
+    //граница верхняя для футера
+    border-top: 2px solid #ffffff;
+
+&-partners {
+    display: flex;
+    //вертикально центрированы
+    align-items: center;
+    //vertical-align: middle;
+    
+    &-item {     
+        margin-right: 120px;
+        width: 10%;
+        &:last-child {
+            margin-right: 0px;
+        }
+    }
+    }
+
+
+
+&-text-wrap {
+        display: flex;
+        justify-content: space-between
+    }
+
+&-nav {
+        display: flex;
+        flex-direction: column; //столбиком 
+        margin-bottom: 88px;
+        &-link {
+            font-weight: normal;
+            font-size: 17px;
+            line-height: 20px;
+            text-decoration: none;
+            margin-bottom: 20px;
+            color: #ffffff;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+        &-text {
+            width: 366px;
+            font-weight: normal;
+            font-size: 17px;
+            line-height: 20px;
+            color: #ffffff
+        }
+    }
+
+&-text {
+    display: flex;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 14px;
+        color: #ffffff;
+        margin-bottom: 11px;
+        text-decoration: none;
+    }
+
+
+.text-yelow {
+color: #EDE852;
+}
+}
