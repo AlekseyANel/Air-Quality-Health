@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "526a662ed000549d1eec5e0efef90af7",
+    "revision": "8fdec8e113f5ceebbe1b5f021f5bfa06",
     "url": "/Air-Quality-Health/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Air-Quality-Health/static/css/2.e0686c58.chunk.css"
   },
   {
-    "revision": "a549b82ade2f68684497",
-    "url": "/Air-Quality-Health/static/css/main.ff0c1a0d.chunk.css"
+    "revision": "71f3a3a49b8e922d60af",
+    "url": "/Air-Quality-Health/static/css/main.be7bde20.chunk.css"
   },
   {
     "revision": "b447a0ee9dfd4a3b02d8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Air-Quality-Health/static/js/2.26cdb5ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a549b82ade2f68684497",
+    "revision": "71f3a3a49b8e922d60af",
     "url": "/Air-Quality-Health/static/js/main.4bbecf53.chunk.js"
   },
   {
