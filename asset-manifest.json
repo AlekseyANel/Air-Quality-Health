@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/AlekseyANel/Air-Quality-Health.git/static/css/main.1ab65a0b.chunk.css",
+    "main.js": "/AlekseyANel/Air-Quality-Health.git/static/js/main.07e9b92a.chunk.js",
+    "main.js.map": "/AlekseyANel/Air-Quality-Health.git/static/js/main.07e9b92a.chunk.js.map",
+    "runtime-main.js": "/AlekseyANel/Air-Quality-Health.git/static/js/runtime-main.2b0ccb78.js",
+    "runtime-main.js.map": "/AlekseyANel/Air-Quality-Health.git/static/js/runtime-main.2b0ccb78.js.map",
+    "static/css/2.e0686c58.chunk.css": "/AlekseyANel/Air-Quality-Health.git/static/css/2.e0686c58.chunk.css",
+    "static/js/2.26cdb5ba.chunk.js": "/AlekseyANel/Air-Quality-Health.git/static/js/2.26cdb5ba.chunk.js",
+    "static/js/2.26cdb5ba.chunk.js.map": "/AlekseyANel/Air-Quality-Health.git/static/js/2.26cdb5ba.chunk.js.map",
+    "index.html": "/AlekseyANel/Air-Quality-Health.git/index.html",
+    "precache-manifest.a43bfde4816395eabce0297d983be208.js": "/AlekseyANel/Air-Quality-Health.git/precache-manifest.a43bfde4816395eabce0297d983be208.js",
+    "service-worker.js": "/AlekseyANel/Air-Quality-Health.git/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/AlekseyANel/Air-Quality-Health.git/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.1ab65a0b.chunk.css.map": "/AlekseyANel/Air-Quality-Health.git/static/css/main.1ab65a0b.chunk.css.map",
+    "static/js/2.26cdb5ba.chunk.js.LICENSE.txt": "/AlekseyANel/Air-Quality-Health.git/static/js/2.26cdb5ba.chunk.js.LICENSE.txt",
+    "static/media/GC_logo.svg": "/AlekseyANel/Air-Quality-Health.git/static/media/GC_logo.e60be19e.svg",
+    "static/media/ITN_logo.svg": "/AlekseyANel/Air-Quality-Health.git/static/media/ITN_logo.899cd278.svg",
+    "static/media/city_planing.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/city_planing.f8f67844.jpg",
+    "static/media/energetics.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/energetics.43f9dac6.jpg",
+    "static/media/energy.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/energy.fb084e1e.jpg",
+    "static/media/HeroBlock.scss": "/AlekseyANel/Air-Quality-Health.git/static/media/hero-bg.5d86912d.jpg",
+    "static/media/industry.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/industry.5ec44869.jpg",
+    "static/media/shid_emozhl_logo.svg": "/AlekseyANel/Air-Quality-Health.git/static/media/shid_emozhl_logo.8dd4ef71.svg",
+    "static/media/slide-1.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/slide-1.7e1db0da.jpg",
+    "static/media/slide-2.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/slide-2.12a25e24.jpg",
+    "static/media/slide-3.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/slide-3.638ec227.jpg",
+    "static/media/slide-4.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/slide-4.8a21e8b7.jpg",
+    "static/media/slide-5.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/slide-5.bb9f49bb.jpg",
+    "static/media/transport.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/transport.65643b05.jpg",
+    "static/media/utilisation.jpg": "/AlekseyANel/Air-Quality-Health.git/static/media/utilisation.a8b6caee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b0ccb78.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.26cdb5ba.chunk.js",
+    "static/css/main.1ab65a0b.chunk.css",
+    "static/js/main.07e9b92a.chunk.js"
+  ]
+}
