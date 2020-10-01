@@ -24,10 +24,15 @@ img {
     height: auto;
     padding: 0 20px};
 
-/*@media (min-width: 1200px) {
+    @media (min-width: 900px) {
+        max-width: 1280px;
+        height: auto;
+        padding: 0 40px}
+
+@media (min-width: 1400px) {
     max-width: 1280px;
     height: auto;
-    padding: 0 20px}*/
+    padding: 0 20px}
 }
 
   
