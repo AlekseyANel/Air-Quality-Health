@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AlekseyANel/Air-Quality-Health.git/precache-manifest.a43bfde4816395eabce0297d983be208.js"
+  "/AlekseyANel/Air-Quality-Health.git/precache-manifest.b8a8ee81705e6b61e27a6eb093753d98.js"
 );
 
 self.addEventListener('message', (event) => {

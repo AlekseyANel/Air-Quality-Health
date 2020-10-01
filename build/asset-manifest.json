@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AlekseyANel/Air-Quality-Health.git/static/css/main.1ab65a0b.chunk.css",
+    "main.css": "/AlekseyANel/Air-Quality-Health.git/static/css/main.edf4840f.chunk.css",
     "main.js": "/AlekseyANel/Air-Quality-Health.git/static/js/main.07e9b92a.chunk.js",
     "main.js.map": "/AlekseyANel/Air-Quality-Health.git/static/js/main.07e9b92a.chunk.js.map",
     "runtime-main.js": "/AlekseyANel/Air-Quality-Health.git/static/js/runtime-main.2b0ccb78.js",
@@ -9,10 +9,10 @@
     "static/js/2.26cdb5ba.chunk.js": "/AlekseyANel/Air-Quality-Health.git/static/js/2.26cdb5ba.chunk.js",
     "static/js/2.26cdb5ba.chunk.js.map": "/AlekseyANel/Air-Quality-Health.git/static/js/2.26cdb5ba.chunk.js.map",
     "index.html": "/AlekseyANel/Air-Quality-Health.git/index.html",
-    "precache-manifest.a43bfde4816395eabce0297d983be208.js": "/AlekseyANel/Air-Quality-Health.git/precache-manifest.a43bfde4816395eabce0297d983be208.js",
+    "precache-manifest.b8a8ee81705e6b61e27a6eb093753d98.js": "/AlekseyANel/Air-Quality-Health.git/precache-manifest.b8a8ee81705e6b61e27a6eb093753d98.js",
     "service-worker.js": "/AlekseyANel/Air-Quality-Health.git/service-worker.js",
     "static/css/2.e0686c58.chunk.css.map": "/AlekseyANel/Air-Quality-Health.git/static/css/2.e0686c58.chunk.css.map",
-    "static/css/main.1ab65a0b.chunk.css.map": "/AlekseyANel/Air-Quality-Health.git/static/css/main.1ab65a0b.chunk.css.map",
+    "static/css/main.edf4840f.chunk.css.map": "/AlekseyANel/Air-Quality-Health.git/static/css/main.edf4840f.chunk.css.map",
     "static/js/2.26cdb5ba.chunk.js.LICENSE.txt": "/AlekseyANel/Air-Quality-Health.git/static/js/2.26cdb5ba.chunk.js.LICENSE.txt",
     "static/media/GC_logo.svg": "/AlekseyANel/Air-Quality-Health.git/static/media/GC_logo.e60be19e.svg",
     "static/media/ITN_logo.svg": "/AlekseyANel/Air-Quality-Health.git/static/media/ITN_logo.899cd278.svg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.2b0ccb78.js",
     "static/css/2.e0686c58.chunk.css",
     "static/js/2.26cdb5ba.chunk.js",
-    "static/css/main.1ab65a0b.chunk.css",
+    "static/css/main.edf4840f.chunk.css",
     "static/js/main.07e9b92a.chunk.js"
   ]
 }

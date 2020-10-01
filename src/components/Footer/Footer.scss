@@ -1,16 +1,27 @@
 .footer {
     //граница верхняя для футера
     border-top: 2px solid #ffffff;
+    @media (min-width: 576px){   }
 
 &-partners {
     display: flex;
     //вертикально центрированы
     align-items: center;
     //vertical-align: middle;
+    //justify-content: space-between;
     
+    width: 100%;
+    height: auto;
+    margin-bottom: 60px;
+   /* @media (min-width: 576px){
+      width: 50%;
+      height: 70px;
+      margin-bottom: 35px;}*/
+
     &-item {     
         margin-right: 120px;
-        width: 10%;
+        max-width: 10%;
+        height: auto;
         &:last-child {
             margin-right: 0px;
         }
@@ -21,13 +32,16 @@
 
 &-text-wrap {
         display: flex;
-        justify-content: space-between
+        justify-content: space-between;
+
+        
+
     }
 
 &-nav {
         display: flex;
         flex-direction: column; //столбиком 
-        margin-bottom: 88px;
+        margin-bottom: 70px;
         &-link {
             font-weight: normal;
             font-size: 17px;
@@ -35,6 +49,7 @@
             text-decoration: none;
             margin-bottom: 20px;
             color: #ffffff;
+            
             &:last-child {
                 margin-bottom: 0;
             }
@@ -44,8 +59,9 @@
             font-weight: normal;
             font-size: 17px;
             line-height: 20px;
-            color: #ffffff
-        }
+            color: #ffffff;
+
+            }
     }
 
 &-text {

@@ -18,13 +18,33 @@
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
+      
       &-item {
         position: relative;
-        width: calc((100% / 3) - 70px);
+        width: 100%;
         height: 240px;
         display: flex;
         align-items: center;
         margin-bottom: 30px;
+
+        @media (min-width: 576px) {
+            width: calc((100% / 2) - 50px);
+            
+          }
+      
+          @media (min-width: 1200px) {
+            width: calc((100% / 3) - 20px);
+            height: 205px;
+            margin-bottom: 45px;
+          }
+      
+          @media (min-width: 1400px) {
+            width: calc((100% / 3) - 70px);
+            height: 205px;
+            margin-bottom: 45px;
+          }
+
+
         &-name {
           width: 100%;
           text-align: center;
