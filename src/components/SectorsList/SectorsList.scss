@@ -66,6 +66,7 @@
           background-color: #DADADA;
           padding: 16px 16px 16px 85px;
           clip-path: polygon(100% 0, 100% 100%, 75px 100%, 0 50%, 75px 0);
+          //border-radius: 10px;
           z-index: 1;
           animation: fadeIn 0.4s ease-in-out;
           &-switched {
@@ -77,13 +78,15 @@
         }
       }
     }
+
+
+
+    @keyframes fadeIn {
+        from {    opacity: 0 }
+        to {   opacity: 1 }
+    }
+
+
+
   }
   
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
