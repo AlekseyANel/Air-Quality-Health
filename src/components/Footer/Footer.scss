@@ -53,6 +53,8 @@
             &:last-child {
                 margin-bottom: 0;
             }
+
+            &:hover {color: #B78A3F;}
         }
         &-text {
             width: 366px;
@@ -72,6 +74,7 @@
         color: #ffffff;
         margin-bottom: 11px;
         text-decoration: none;
+        &:hover {color: #B78A3F;}
     }
 
 

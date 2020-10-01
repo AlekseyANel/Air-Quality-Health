@@ -28,12 +28,16 @@
         margin-bottom: 30px;
 
         @media (min-width: 576px) {
+            width: calc((100% / 2) - 15px);
+            
+          }
+          @media (min-width: 900px) {
             width: calc((100% / 2) - 50px);
             
           }
-      
+
           @media (min-width: 1200px) {
-            width: calc((100% / 3) - 20px);
+            width: calc((100% / 3) - 50px);
             height: 205px;
             margin-bottom: 45px;
           }

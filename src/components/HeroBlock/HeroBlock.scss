@@ -2,15 +2,14 @@
     background-image: linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
                                 url("..//..//assets/hero-bg.jpg");
     background-size: cover;
-    padding: 81px 0 178px;
+    padding: 0 0 178px;
 
 &-partners {
     display: flex;
     align-items: center;
     &-item {
-        margin-left: 60px;
-    
-    &:first-child {
+    margin-left: 60px;
+        &:first-child {
         margin-left: 0;
         }
     }
@@ -18,7 +17,7 @@
 
 
 &-navigation {
-    margin-top: 45px;
+    margin-top: 0px;
     
     
     &-item {
@@ -27,10 +26,10 @@
         font-size: 19px;
         line-height: 22px;
         color: #ffffff;
-        margin-left: 75px;
-        
+        margin-left: 30px;
         &:first-child {margin-left: 0;
         }
+        &:hover {color: #B78A3F;}
     }
 }
 
@@ -39,7 +38,7 @@
 font-size: 57px;
 line-height: 67px;
 color: #FFFFFF;
-margin: 108px 0 132px;
+margin: 90px 0 132px;
 width: 664px;
 }
 
@@ -52,7 +51,11 @@ width: 664px;
     line-height: 37px;
     padding: 35px 151px;
     text-decoration: none;
+    &:hover {color: #0000009d;}
+
+    
 }
 
 
 }
+

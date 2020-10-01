@@ -14,16 +14,20 @@ img {
     max-width: 1280px; 
     margin: 0 auto;
 
-@media (min-width: 900px) {
+@media (min-width: 400px) {
     max-width: 768px;
+    height: auto;
     padding: 0 10px};
     
-@media (min-width: 1200px) {
+@media (min-width: 576px) {
     max-width: 768px;
-    padding: 0 10px};
+    height: auto;
+    padding: 0 20px};
 
-@media (min-width: 1400px) {
+/*@media (min-width: 1200px) {
     max-width: 1280px;
-    padding: 0 10px}
+    height: auto;
+    padding: 0 20px}*/
 }
+
   
