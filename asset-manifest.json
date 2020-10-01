@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Air-Quality-Health/static/css/main.d9fa3f54.chunk.css",
+    "main.css": "/Air-Quality-Health/static/css/main.4d65eb5e.chunk.css",
     "main.js": "/Air-Quality-Health/static/js/main.4bbecf53.chunk.js",
     "main.js.map": "/Air-Quality-Health/static/js/main.4bbecf53.chunk.js.map",
     "runtime-main.js": "/Air-Quality-Health/static/js/runtime-main.e75318d5.js",
@@ -9,10 +9,10 @@
     "static/js/2.26cdb5ba.chunk.js": "/Air-Quality-Health/static/js/2.26cdb5ba.chunk.js",
     "static/js/2.26cdb5ba.chunk.js.map": "/Air-Quality-Health/static/js/2.26cdb5ba.chunk.js.map",
     "index.html": "/Air-Quality-Health/index.html",
-    "precache-manifest.5b814f9055dfe097656645d14958cf57.js": "/Air-Quality-Health/precache-manifest.5b814f9055dfe097656645d14958cf57.js",
+    "precache-manifest.5ca9a7ef535c85be97638c9f10baa30f.js": "/Air-Quality-Health/precache-manifest.5ca9a7ef535c85be97638c9f10baa30f.js",
     "service-worker.js": "/Air-Quality-Health/service-worker.js",
     "static/css/2.e0686c58.chunk.css.map": "/Air-Quality-Health/static/css/2.e0686c58.chunk.css.map",
-    "static/css/main.d9fa3f54.chunk.css.map": "/Air-Quality-Health/static/css/main.d9fa3f54.chunk.css.map",
+    "static/css/main.4d65eb5e.chunk.css.map": "/Air-Quality-Health/static/css/main.4d65eb5e.chunk.css.map",
     "static/js/2.26cdb5ba.chunk.js.LICENSE.txt": "/Air-Quality-Health/static/js/2.26cdb5ba.chunk.js.LICENSE.txt",
     "static/media/GC_logo.svg": "/Air-Quality-Health/static/media/GC_logo.e60be19e.svg",
     "static/media/ITN_logo.svg": "/Air-Quality-Health/static/media/ITN_logo.899cd278.svg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.e75318d5.js",
     "static/css/2.e0686c58.chunk.css",
     "static/js/2.26cdb5ba.chunk.js",
-    "static/css/main.d9fa3f54.chunk.css",
+    "static/css/main.4d65eb5e.chunk.css",
     "static/js/main.4bbecf53.chunk.js"
   ]
 }
